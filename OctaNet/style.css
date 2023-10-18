@@ -1,0 +1,36 @@
+body {
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("bg.jpg");
+}
+p
+{
+  text-align: center;
+}
+.moto
+{
+  padding-top: 200px;
+  font-family: 'Playfair Display', serif;
+  font-size: 80px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0 0 2px #000000;
+}
+.des1
+{
+  font-family: 'Playfair Display', serif;
+  color: white;
+  text-shadow: 0 0 3px #000000;
+  font-size: 30px;
+  font-style: italic;
+}
+.des2
+{
+  font-family: 'Playfair Display', serif;
+  color: white;
+  text-shadow: 0 0 3px #000000;
+  font-size: 20px;
+  font-style: italic;
+}
